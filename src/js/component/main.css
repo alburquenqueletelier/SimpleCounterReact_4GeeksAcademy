@@ -1,0 +1,15 @@
+.contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+}
+
+.imgButton {
+    border: none;
+    background-color: white;
+}
+
+.container-fluid {
+    max-width: fit-content;
+}
